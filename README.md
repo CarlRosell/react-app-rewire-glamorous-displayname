@@ -31,7 +31,7 @@ or
 
 ```javascript
 // config-overrides.js
-const { compose } = require('react-app-required')
+const { compose } = require('react-app-rewired')
 const rewireGlamorousDisplayname = require('react-app-rewire-glamorous-displayname');
 
 module.exports = compose(
