@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-glamorous-displayname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add babel-plugin-glamorous-displayname to a create-react-app app via react-app-rewired.",
   "main": "index.js",
   "scripts": {
