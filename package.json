@@ -14,8 +14,9 @@
     "babel-plugin-glamorous-displayname",
     "create-react-app",
     "glamorous-displayname",
-    "react-app-rewired",
-    "react-app-rewire-glamorous-displayname"
+    "glamorous",
+    "react-app-rewire-glamorous-displayname",
+    "react-app-rewired"
   ],
   "author": "Carl Rosell",
   "license": "MIT",
